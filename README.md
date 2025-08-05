@@ -2,7 +2,7 @@
 
 ## 📘 Introduction
 
-This repository contains the custom R scripts and analytical outputs used in the postprocessing of high-throughput phenotyping (HTP) image data for nitrogen use efficiency (NUE) analysis in rice.
+This repository contains the custom R scripts used in the postprocessing of high-throughput phenotyping (HTP) image data for nitrogen use efficiency (NUE) analysis in rice.
 
 Postprocessing of image data was conducted using custom software written in the R programming language ([https://www.r-project.org/](https://www.r-project.org/);). The dataset analyzed, resulting metrics, and full processing pipeline are provided here to ensure reproducibility and transparency.
 
